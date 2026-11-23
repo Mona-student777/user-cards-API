@@ -12,7 +12,14 @@ A User Cards application that fetches user data forms an API and displays user i
  - javascript
  - Fetch API
 
-## Author 
+## projects status 
+ -Completed
 
- mona
+## Future Improvement 
+-Add Functionality 
+-Improve Card Design 
+-Add LOading and Error message 
+
+## Author 
+mona
  
