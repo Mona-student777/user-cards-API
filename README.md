@@ -14,5 +14,5 @@ A User Cards application that fetches user data forms an API and displays user i
 
 ## Author 
 
-- mona
+ mona
  
