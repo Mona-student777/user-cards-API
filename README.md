@@ -18,7 +18,7 @@ A User Cards application that fetches user data forms an API and displays user i
 ## Future Improvement 
 -Add Functionality 
 -Improve Card Design 
--Add LOading and Error message 
+-Add Loading and Error message 
 
 ## Author 
 mona
