@@ -1,5 +1,5 @@
 # user-cards-API
-A User Cards application that fetched user data form an API and display user information in responsive cards
+A User Cards application that fetches user data forms an API and displays user information in responsive cards
 
 ## Features 
 - Fetch user data from API
@@ -12,5 +12,7 @@ A User Cards application that fetched user data form an API and display user inf
  - javascript
  - Fetch API
 
-Author- mona
+## Author 
+
+- mona
  
