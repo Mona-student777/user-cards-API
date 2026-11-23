@@ -1,0 +1,76 @@
+*{
+     margin:0;
+     padding:0;
+     font-family:'Courier New', Courier, monospacel;
+     
+}
+ body{
+     background-color:#2e2b2b;
+}
+
+.card-container{
+     height:100vh;
+     display:flex;
+     justify-content:center;
+     align-items:center;
+
+}
+.card-list{
+ 
+   display:flex;
+   justify-content:center;
+   align-items:center;
+   gap:3rem;
+
+   
+}
+.card-details{
+     display:flex;
+     justify-content:center;
+     align-items:Center;
+     gap:2rem;
+     padding:3rem;
+     box-shadow:0 1px 10px 2px white;
+     background-color:#d1d1d1b5;
+     border-radius:2rem;
+
+
+}
+.card-image{
+     width:200px;
+     height:200px;
+     object-fit:cover;
+     border-radius:50%;
+
+}
+.card-info{
+     display:flex;
+     flex-direction:column;
+     justify-content:center;
+     align-items:Center;
+     gap:1rem;
+}
+.card-name{
+     font-size:35px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.card-email{
+     font-size:28px;
+     font-family:'Courier New', Courier, monospace
+
+}
+.card-btn{
+     position:absolute;
+   top:68%;
+     left:50%;
+     height:80px;
+     width:300px;
+     border-radius:2rem;
+     background-color:rgba(25, 144, 234, 0.304);
+     border:none;
+     font-size:2rem;
+     font-weight:300;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
